@@ -6,7 +6,7 @@ metadata:
   name: tp-sample-app
   annotations:
     app.openshift.io/vcs-ref: 3d3a0ea0fc16465642c7e324f18e103c4ba45baf
-    app.openshift.io/vcs-uri: https://github.com/client-engineering-tp/tp-sample-app
+    app.openshift.io/vcs-uri: https://github.com/inter-app/tp-sample-app
   labels:
     app.kubernetes.io/name: tp-sample-app
     helm.sh/chart: tp-sample-app-1.0.0-rc0.0.24
